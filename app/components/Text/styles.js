@@ -7,4 +7,3 @@ export default EStyleSheet.create({
     fontSize: 12,
   },
 });
-

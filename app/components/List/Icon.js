@@ -30,10 +30,9 @@ const Icon = ({ visible, checkmark, iconBackground }) => {
 };
 
 Icon.propTypes = {
-   visible: PropTypes.bool,
-   checkmark: PropTypes.bool,
+  visible: PropTypes.bool,
+  checkmark: PropTypes.bool,
   iconBackground: PropTypes.string,
- };
+};
  
  export default Icon;
-

@@ -26,4 +26,3 @@ const connectAlert = (WrappedComponent) => {
 };
 
 export default connectAlert;
-
